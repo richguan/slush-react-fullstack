@@ -55,4 +55,4 @@ When submitting a new feature, add tests that cover the feature.
 Recent changes can be viewed on Github.
 
 ## License
-[BSD license](http://opensource.org/licenses/bsd-license.php)
+[MIT license](http://opensource.org/licenses/mit-license.php)
