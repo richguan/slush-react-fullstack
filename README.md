@@ -1,4 +1,4 @@
-#ReactJS-Fullstack Generator
+#React Fullstack Generator
 >Slush generator for ReactJS - lets you quickly set up a project with sensible defaults and best practices.
 
 ##Getting Started
@@ -39,7 +39,7 @@ To install a sub-generator, pick one from the above list:
  slush react-fullstack:generator_of_your_choice
  ```
 
-**Note: Generators are to be run from the root directory of your app.**
+**Note: Run generators from the root directory of your app.**
 
 ##Testing
 Running `gulp jest` will run the unit tests with jest.
